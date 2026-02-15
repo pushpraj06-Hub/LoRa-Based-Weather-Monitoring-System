@@ -1,0 +1,5 @@
+Transmitter Node:
+Sensors → ESP32 → LoRa SX1278 → Antenna
+
+Receiver Node:
+LoRa SX1278 → ESP8266 → Serial Monitor
