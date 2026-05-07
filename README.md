@@ -22,6 +22,14 @@ The receiver displays data on serial monitor.
 - LoRa Communication
 - IoT Basics
 
+## Research Paper Recognition
+The research paper based on this project won **First Prize** at the **TechXplore 2026 National Student Innovation Conference** organized by K. K. Wagh Institute of Engineering Education & Research, Nashik.
+
+### Certificate
+![Certificate](CERTIFICATE.jpeg)
+
+### Trophy
+![Trophy](TROPHY.jpeg)
 
 
 
